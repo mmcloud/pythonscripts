@@ -3,5 +3,5 @@
 from app.db.base_class import Base  # noqa
 from app.models.item import Item  # noqa
 from app.models.user import User  # noqa
-from app.models.employee import Employee, Manager, Engineer  # noqa
 from app.models.company import Company  # noqa
+from app.models.employee import Employee, Manager, Engineer  # noqa
